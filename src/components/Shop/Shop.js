@@ -32,13 +32,6 @@ const Shop = () => {
                     </Cloth>)
                     }
                 </div>
-                {
-                    fabrics.map(fabric =><Cloth 
-                        cloth= {fabric}
-                        handleAddToCart = {handleAddToCart}
-                        >
-                    </Cloth>)
-                }
             </div>
             <div className= "main-cart">
                 <Cartt cart = {cart}></Cartt>
