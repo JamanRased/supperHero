@@ -1,0 +1,23 @@
+.product-img{
+    height: 200px;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.order-btn{
+    height: 35px;
+    width: 200px;
+    background-color: burlywood;
+    color:black;
+    border: 1px solid gainsboro;
+    padding: 10px;
+    font-weight:bold;
+}
+.main-container{
+    border: 1px solid aqua;
+    padding: 10px;
+    height: 550px;
+    margin: 10px;
+    background-color: aquamarine;
+}
