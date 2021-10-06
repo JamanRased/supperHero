@@ -12,6 +12,7 @@ const Cartt = (props) => {
         
     }
     */
+   
     return (
         <div>
             <div className= "main-cart">
